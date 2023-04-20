@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaLinqLambda", "AulaLinqLambda.csproj", "{00C56749-0DFB-42AC-83C5-4B87E5A4D01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C56749-0DFB-42AC-83C5-4B87E5A4D01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C56749-0DFB-42AC-83C5-4B87E5A4D01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C56749-0DFB-42AC-83C5-4B87E5A4D01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C56749-0DFB-42AC-83C5-4B87E5A4D01D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94150630-AAD4-4104-9D49-6239961E904A}
+	EndGlobalSection
+EndGlobal
